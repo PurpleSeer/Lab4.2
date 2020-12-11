@@ -1,0 +1,10 @@
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\obj\Debug\Lab4.2.csprojAssemblyReference.cache
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\obj\Debug\Lab4._2.Properties.Resources.resources
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\obj\Debug\Lab4.2.csproj.GenerateResource.cache
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\obj\Debug\Lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\bin\Debug\Lab4.2.exe.config
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\bin\Debug\Lab4.2.exe
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\bin\Debug\Lab4.2.pdb
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\obj\Debug\Lab4._2.Form1.resources
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\obj\Debug\Lab4.2.exe
+C:\Users\ilya\source\repos\OOP\Lab4.2\Lab4.2\obj\Debug\Lab4.2.pdb
